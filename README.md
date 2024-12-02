@@ -1,5 +1,4 @@
  #### design + web
- #### azeta.io
 
 <!--
 **az3ta/az3ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
